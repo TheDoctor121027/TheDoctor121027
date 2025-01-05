@@ -4,7 +4,7 @@ I stream on YouTube and Twitch. I run my own minecraft server network, IP availa
 
 ## Skills
 - 🌐 | HTML | CSS |
-- 🎮 | C# | U# (VRChat Specific) | UGraph (VRChat Specific) |
+- 🎮 | C# | Python | U# (VRChat Specific) | UGraph (VRChat Specific) |
 ## What am I doing?
 - 🔭 I’m currently working on development for my vrchat world, my website and my YouTube and Twitch 
 - 🌱 I’m currently learning C# and U# and excited to learn more languages.
